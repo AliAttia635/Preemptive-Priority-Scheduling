@@ -1,7 +1,7 @@
 This code Simulate the Priority Scheduling Algorithm using Java
 
 
-How the code works :
+How the code works :                                                                                                                                                
 •	The code begins by prompting the user to enter the number of processes to be scheduled.                                                                             
 •	It then initializes arrays and variables to store process information such as process names, arrival times, burst times, priorities, start times, completion times, turnaround times, waiting times, response times, and process IDs.                                                                                                     
 •	The code takes input for each process, including the process name, arrival time, burst time, and priority.                                                          
